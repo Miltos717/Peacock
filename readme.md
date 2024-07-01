@@ -9,7 +9,7 @@ and
 content to the game, and allows for other enhancements to be made while in
 online mode.
 
-## Installation
+## Installation  
 
 Install [Node.js](https://nodejs.org/en/). Use the Latest version, or the
 version
