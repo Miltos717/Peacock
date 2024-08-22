@@ -16,7 +16,7 @@
  *     along with this program.  If not, see <https://www.gnu.org/licenses/>...
  */
 
-import { Router } from "express"
+import { Router } from "express" 
 import { gameDifficulty, nilUuid, ServerVer, uuidRegex } from "../utils"
 import { json as jsonMiddleware } from "body-parser"
 import { enqueueEvent, newSession } from "../eventHandler"
